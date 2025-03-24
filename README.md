@@ -1,4 +1,4 @@
-# ds_translator_V_1
+# ds_translator_V_1.0
 
 ds_translator是截屏、识文、翻译的三合一的翻译器
 
